@@ -1,5 +1,5 @@
 # Youtube-Downloader
-A windows native application developed to download any YouTube Video using its link with specified Quality, in your required Location
+A Windows native application developed to download any YouTube Video using its link with specified Quality, in your required Location
 
 
 It is a Stand Alone Application developed completely in Python and the Framework used for GUI development is Tkinter.
