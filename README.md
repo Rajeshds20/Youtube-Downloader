@@ -8,3 +8,6 @@ This project will have its own dependencies to run, which are mentioned.
 
 This is developed with the code and modules already existed in open-source Platform with my convinient coding ad knowledge on development.
 
+It is always advised to download Tkinter and pytube module updated before running this application...
+
+
